@@ -6,4 +6,5 @@ int main() {
     cin >> a;
     int b;
     cin >> b;
+    cin >> c;
 }
